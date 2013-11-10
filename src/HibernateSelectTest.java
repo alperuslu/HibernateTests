@@ -5,4 +5,8 @@ public class HibernateSelectTest {
 	{
 		System.out.println("Test test");
 	}
+	public HibernateSelectTest()
+	{
+		
+	}
 }
